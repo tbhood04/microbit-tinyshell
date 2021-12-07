@@ -22,6 +22,8 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  *
  * For more information, please refer to <https://unlicense.org>
+ * 
+ * This project uses microbit-v2-samples - see microbit-v2-samples.txt
  */
  
 #include "uBit.h"

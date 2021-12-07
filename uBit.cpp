@@ -26,5 +26,5 @@
  * This project uses microbit-v2-samples - see microbit-v2-samples.txt
  */
 
-#include "uBit.h"
+#include "uBit.hpp"
 MicroBit uBit;

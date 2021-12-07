@@ -22,15 +22,11 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  *
  * For more information, please refer to <https://unlicense.org>
- *
+ * 
  * This project uses microbit-v2-samples - see microbit-v2-samples.txt
  */
-
-#include "uBit.hpp"
-#include "shell.hpp"
-
-int main()
-{
-  uBit.init(); /* Initialises the scheduler, memory manager, and Bluetooth stack */
-  shell(); /* Starts the shell */
-}
+#ifndef MAIN
+#define MAIN
+#include "MicroBit.h"
+extern MicroBit uBit; /* Indicates the uBit object to be used accross source files */
+#endif

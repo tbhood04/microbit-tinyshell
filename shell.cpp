@@ -26,8 +26,8 @@
  * This project uses microbit-v2-samples - see microbit-v2-samples.txt
  */
  
-#include "uBit.h"
-#include "shell.h"
+#include "uBit.hpp"
+#include "shell.hpp"
 
 /*
  * Both \r and \n are required to move serial output to the next line aligned to the left.

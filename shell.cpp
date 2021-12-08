@@ -23,7 +23,7 @@
  *
  * For more information, please refer to <https://unlicense.org>
  * 
- * This project uses microbit-v2-samples - see microbit-v2-samples.txt
+ * This project uses microbit-v2-samples - see microbit-v2-samples-license.txt
  */
  
 #include "uBit.hpp"

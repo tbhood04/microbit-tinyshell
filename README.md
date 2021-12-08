@@ -9,7 +9,7 @@ To build from source, first prepare the Microbit C++ runtime maintained by Lanca
 
 Next, clone this repository and copy all the files except main.cpp to the source directory of the microbit-v2-samples repository.
 
-Third, create a .cpp source file that imports shell.h and has a main() function that calls uBit.init() and shell(). For an example version, a basic main.cpp is included.
+Third, create a .cpp source file that imports shell.hpp and has a main() function that calls uBit.init() and shell(). For an example version, a basic main.cpp is included.
 
 Finally, build the project using the build.py script included with microbit-v2-samples
 

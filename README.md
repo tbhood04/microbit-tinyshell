@@ -1,7 +1,7 @@
 # microbit-tinyshell
-A tiny shell for Microbit written in C++ that is designed to be integrated into other projects. It includes an extremely small amount of commands by default, but is designed to be easily extensible with new commands. It does not output keys you have typed in, but that can be added in the future.
+A tiny shell for Microbit written in C++ that is designed to be integrated into other projects. It includes an extremely small amount of commands by default, but is designed to be easily extensible with new commands. 
 
-# Version Support
+# Microbit Version Support
 As of right now, I only have a Microbit v2 to test on, so I can only gurantee functionality with that version.
 
 # Building from source

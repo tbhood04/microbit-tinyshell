@@ -5,7 +5,7 @@ A tiny shell for Microbit written in C++ that is designed to be integrated into 
 As of right now, I only have a Microbit v2 to test on, so I can only gurantee functionality with that version.
 
 # Building from source
-To build from source, first prepare the Microbit C++ runtime maintained by Lancaster University. To do this on the Microbit v2, follow the instructions at https://github.com/lancaster-university/microbit-v2-samples. Please note that I have only gotten the build tools to work on an Ubuntu 18.04 LTS environment.
+To build from source, first prepare the Microbit C++ runtime maintained by Lancaster University. To do this on Microbit v2, follow the instructions at https://github.com/lancaster-university/microbit-v2-samples. Please note that I have only gotten the build tools to work on an Ubuntu 18.04 LTS environment.
 
 Next, clone this repository and copy all the source files (.cpp and .hpp files) except main.cpp to the source directory of the microbit-v2-samples repository.
 

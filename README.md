@@ -24,6 +24,6 @@ If the text output from commands looks incomplete, unplug the Microbit, plug in 
 To extend the shell, simply create a new function in shell.cpp that corresponds to the command you want to implement, then add a case for your command in shell().
 
 # Contributing
-Any contributions are welcome! Please make your code formatting similar to the rest of the project, and make sure the Unlicense is commented at the top of any source files, as well as this notice:
+Any contributions are welcome! Please make your code style similar to the rest of the project, and make sure the Unlicense is commented at the top of any source files, as well as this notice:
 
 "This software uses microbit-v2-samples - see microbit-v2-samples-license.txt".

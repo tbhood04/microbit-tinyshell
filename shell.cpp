@@ -61,7 +61,7 @@ void shellHelp()
 
 void shellInfo()
 {
-  uBit.serial.send("\r\n Tinyshell for Microbit");
+  uBit.serial.send("\r\nTinyshell 1.0 for Microbit");
   resetShell();
 }
 
